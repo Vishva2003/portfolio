@@ -625,3 +625,20 @@ body {
 			  clip-path: polygon(0 -20%, 100% -20%, 100% 0%, 0 0);
 	}
   }
+.location{
+	right: 30%;
+	top: 40px;
+	color: #fff;
+	font-family: 'Ubuntu', sans-serif;
+	background: transparent;
+	display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+	margin: 0;
+    color: #9E9E9E;
+    font-size: 10pt;
+    letter-spacing: 2pt;
+	text-align: center;
+}
